@@ -5,11 +5,11 @@ CustomFontLib is an Android Library to help adding custom fonts to Android Views
 ### 1. Add the lib as a dependency to your project build.gradle:
 ```groovy
 dependencies {
-    compile 'compile 'com.daniribalbert:custom-font-lib:0.9.8'
+    compile 'com.daniribalbert:custom-font-lib:0.9.8'
 }
 ```
 
-### 2. Add the fonts you'll need to the _assets/fonts_ folder:
+### 2. Add the fonts to the _assets/fonts_ folder:
 ![assets/fonts](website/static/img_fonts_folder.jpg)
 
 ### 3. Add the custom font view to your layout:
@@ -52,4 +52,4 @@ For more information please check the sample app available at [GitHub][1]
     DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[1]: [https://github.com/daniribalbert/CustomFontLib/tree/master/app]
+[1]: https://github.com/daniribalbert/CustomFontLib/tree/master/app
