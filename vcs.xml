@@ -10,8 +10,12 @@
           <option name="url" value="http://10.75.210.1/folding/folding-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/HappyFunCorp/live-with-twitter-amazonfire.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\daniel\Workspace\Sony" />
+    <option name="cloneParentDir" value="C:\Users\daniel\Workspace\HappyFun" />
   </component>
 </application>
