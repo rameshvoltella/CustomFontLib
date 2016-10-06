@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'C:\Users\daniel\Workspace\HappyFun\twitter-live\TwitterLiveTV\app\src\main\java'" />
-    <option name="defaultScopeName" value="Directory 'C:\Users\daniel\Workspace\HappyFun\twitter-live\TwitterLiveTV\app\src\main\java'" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\daniel\Workspace\HappyFun\twitter-live\TwitterLiveTV\app\src\main\java'" />
+    <option name="customScope" value="Directory 'C:\Users\daniel\Workspace\HappyFun\twitter-live\TwitterLiveTV\libraries\periscope\src\main\java'" />
+    <option name="defaultScopeName" value="Directory 'C:\Users\daniel\Workspace\HappyFun\twitter-live\TwitterLiveTV\libraries\periscope\src\main\java'" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\daniel\Workspace\HappyFun\twitter-live\TwitterLiveTV\libraries\periscope\src\main\java'" />
   </component>
 </application>
