@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory 'C:\Users\daniel\Workspace\Sony\folding-android\app\src'" />
-    <option name="defaultScopeName" value="Directory 'C:\Users\daniel\Workspace\Sony\folding-android\app\src'" />
+    <option name="customScope" value="Module 'app'" />
+    <option name="defaultScopeName" value="Module 'app'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\daniel\Workspace\Sony\folding-android\app\src'" />
+    <option name="SEARCH_SCOPE" value="Module 'app'" />
   </component>
 </application>
